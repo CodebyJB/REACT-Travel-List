@@ -1,31 +1,29 @@
 /* monoton-regular - latin */
 @font-face {
-  font-display: swap; 
-  font-family: 'Monoton';
+  font-display: swap;
+  font-family: "Monoton";
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/monoton-v15-latin-regular.woff2') format('woff2'); 
+  src: url("../fonts/monoton-v15-latin-regular.woff2") format("woff2");
 }
-
 
 /* quicksand-500 - latin */
 @font-face {
-  font-display: swap; 
-  font-family: 'Quicksand';
+  font-display: swap;
+  font-family: "Quicksand";
   font-style: normal;
   font-weight: 500;
-  src: url('../fonts/quicksand-v30-latin-500.woff2') format('woff2'); 
+  src: url("../fonts/quicksand-v30-latin-500.woff2") format("woff2");
 }
 
 /* quicksand-700 - latin */
 @font-face {
-  font-display: swap; 
-  font-family: 'Quicksand';
+  font-display: swap;
+  font-family: "Quicksand";
   font-style: normal;
   font-weight: 700;
-  src: url('../fonts/quicksand-v30-latin-700.woff2') format('woff2');
+  src: url("../fonts/quicksand-v30-latin-700.woff2") format("woff2");
 }
-
 
 * {
   margin: 0;
@@ -34,7 +32,7 @@
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 55%;
 }
 
 body {
